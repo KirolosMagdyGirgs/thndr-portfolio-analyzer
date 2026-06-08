@@ -1,0 +1,7 @@
+.env
+*.xlsx
+investments_*.xlsx
+portfolio_report_*.txt
+__pycache__/
+*.pyc
+.venv/
