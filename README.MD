@@ -12,7 +12,7 @@ analysis report in English and Arabic.
 
 ## Setup
 1. pip install -r requirements.txt
-2. Copy .env.example to .env and add your DEEPSEEK_API_KEY and GROQ_API_KEY
+2. Copy .env.example to .env and add your DEEPSEEK_API_KEY
 3. Run Scraper_app.py first, then full_app.py
    Or use run_thnder_analysis.bat (Windows)
 
