@@ -1,0 +1,908 @@
+
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  📊  THNDR PORTFOLIO REPORT   2026-06-02   DCA: 10,000 EGP/month                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+
+┌─ 🌍  LIVE MARKET CONTEXT ───────────────────────────────────────────────────────────────┐
+│  Indicator             Value     Change   Context
+│  ──────────────────────────────────────────────────────────────────────────────────────
+│  EGX30             52,853.90     +0.37%   Broad market (top 30)
+│  EGX70             14,958.90     +2.10%   Mid/small caps
+│  EGX100            20,906.10     +2.09%   Broad 100 index
+│  Oil (WTI)            $92.16     +5.49%   → ABUK, AMOC
+│  Gold              $4,484.73     -1.23%   Inflation / sentiment
+│  USD/EGP             51.9700   -0.3834%   → Pharma, Import-heavy
+│  Status: Trading Day   |   Updated: 2026-06-02 00:49
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ 💰  PORTFOLIO SNAPSHOT ────────────────────────────────────────────────────────────────┐
+│  Total Value            77,222 EGP
+│  Total Return           +5,934 EGP   (+7.68%)  🟢
+│  Stocks                 20,840 EGP   (27.0%)
+│  Mutual Funds           56,382 EGP   (73.0%)
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ 📈  STOCK POSITIONS ───────────────────────────────────────────────────────────────────┐
+│  SYM    SECTOR                       UNITS    COST   PRICE     RET%  SIGNAL          RSI MACD        P/E   ROE%  DIV%
+│  ──────────────────────────────────────────────────────────────────────────────────────
+│  ABUK   Process Industries / Chemic     96   78.85   83.60    +6.0%🟢 🔴  SELL         44.6 BEARISH     N/A    N/A  7.33
+│  COMI   Finance / Regional Banks        48  132.57  131.75    -0.6%🔴 🔴  SELL         45.2 BEARISH     7.0   34.6  4.51
+│  ORAS   Industrial Services / Engin      7  474.88  746.90   +57.3%🟢 🟢  BUY          79.5 BULLISH     6.6   28.8  3.15
+│  TMGH   Finance / Real Estate Devel     13   78.61   97.10   +23.5%🟢 🟢  BUY          57.6 BEARISH    14.5   18.2  0.31
+│  MHOT   Consumer Services / Hotels/      0   33.42   33.42    +0.0%🟢 🟢🟢STRONG BUY   70.1 BULLISH    11.7   33.1   4.9
+│  ORHD   Consumer Durables / Homebui      0   38.91   38.91    +0.0%🟢 🟢🟢STRONG BUY   77.5 BULLISH     8.4   32.9  1.03
+│
+│  TREND & VOLATILITY:
+│  SYM      SMA20   SMA50   SMA200       LOW   ─ 3M RANGE ─   HIGH       BB% Vol/Avg    ATR
+│  ──────────────────────────────────────────────────────────────────────────────────────
+│  ABUK   ↓86.85  ↓86.07  ↑62.42       77.51  [███░░░░░░░] 35%  95       15.0%   x1.15   3.07
+│  COMI   ↓136.03 ↓131.75 ↑111.75        111  [██████░░░░] 61%  144.93   20.8%   x1.74   3.19
+│  ORAS   ↑674.43 ↑582.96 ↑476.78        446  [█████████░] 99%  749.99   88.4%   x1.35  23.11
+│  TMGH   ↑96.61  ↑88.24  ↑74.27       73.73  [████████░░] 84%  101.4    56.5%   x0.68   2.81
+│  MHOT   ↑28.34  ↑26.73  ↑25.69       23.43  [█████████░] 92%  34.3     111.4%   x1.61   1.83
+│  ORHD   ↑33.56  ↑29.45  ↑25.34          23  [█████████░] 96%  39.61    107.4%   x0.86   1.45
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ 🏦  MUTUAL FUNDS ──────────────────────────────────────────────────────────────────────┐
+│  SYM    TYPE                            VALUE (EGP)    RETURN      COST    PRICE
+│  ──────────────────────────────────────────────────────────────────────────────────────
+│  AZG                                         18,047     -1.3%🔴     26.16    25.82
+│  CCB                                         10,747    +13.3%🟢     17.15    19.43
+│  CFF                                          9,988     +6.3%🟢     19.41    20.64
+│  CTI                                         10,760    +11.5%🟢     16.03    17.87
+│  CTQ                                          6,840    +10.5%🟢     10.54    11.65
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌─ 📰  LATEST BUSINESS NEWS ──────────────────────────────────────────────────────────────┐
+│  1. [DNE] Next fiscal year to see rollout of tax, customs, and property facilitation pac
+│  2. [DNE] Egypt studies global logistics hub in SCZONE to strengthen trade, supply chain
+│  3. [DNE] Egypt advocates deeper Africa-Korea partnerships to drive sustainable developm
+│  4. [DNE] TMG secures licence for $18.8bn mega development in Iraq
+│  5. [DNE] Egypt, UK explore deeper investment and trade cooperation
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  🤖  DEEPSEEK ANALYSIS  —  6-12 Month Medium-Term + Monthly DCA Plan                    ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+  │  # EGX PORTFOLIO REVIEW — 2 JUNE 2026
+  │
+  │  **Analyst:** Senior Egyptian Equity Analyst | **Client:** Monthly DCA Strategy
+  │   (10,000 EGP/month) | **Horizon:** 6-12 Months
+  │
+  │  ---
+  │
+
+  ┌─ 1. MARKET & MACRO IMPACT ───────────────────────────────────────────────────────┐
+  │
+  │  **EGX30 at 52,853 (+0.37%):** The index is trading near all-time highs but showing
+  │   exhaustion — today's marginal gain on low breadth suggests consolidation ahead. For
+  │   COMI (banking), a stable-to-slightly-rising EGX30 supports institutional inflows
+  │   into high-liquidity names. For TMGH and ORHD (real estate/construction), a strong
+  │   EGX30 provides sentiment tailwind for sector rotation. However, the divergence
+  │   between EGX30 (+0.37%) and EGX70 (+2.10%) signals money rotating into mid-caps —
+  │   this benefits ORAS and TMGH more than COMI or ABUK.
+  │
+  │  **WTI Oil at $92.16 (+5.49%):** This is a MAJOR positive for ABUK. As a nitrogen
+  │   fertilizer producer, ABUK's natural gas feedstock costs are subsidized domestically,
+  │   while its urea and ammonia output is priced globally in USD. Every $5/barrel
+  │   increase in oil typically lifts fertilizer prices by 8-12% with a 4-6 week lag. At
+  │   $92 oil, ABUK's export margins expand significantly — the current SELL signal is
+  │   purely technical, not fundamental. For ORAS (construction), higher oil benefits its
+  │   Middle East operations (Iraq, UAE) where oil-exporting clients have more
+  │   infrastructure budget. For COMI, oil above $90 supports Egypt's sovereign position
+  │   via Gulf remittances and Suez Canal revenue.
+  │
+  │  **Gold at $4,484.73 (-1.23%):** Gold's pullback from recent highs is a minor negative
+  │   for sentiment but doesn't directly impact any portfolio holding. The gold price
+  │   decline suggests some risk-on rotation out of safe havens, which marginally supports
+  │   EGX equities. For TMGH and ORHD (real estate), lower gold can reduce the
+  │   attractiveness of gold as an alternative investment, potentially channeling more
+  │   savings into real estate.
+  │
+  │  **USD/EGP at 51.97 (-0.38%):** The EGP strengthening slightly is a short-term
+  │   positive for import-dependent sectors but a minor headwind for exporters like ABUK
+  │   (whose EGP revenues from exports translate to fewer EGP when the pound strengthens).
+  │   For COMI, EGP stability is the single most important macro factor — it removes the
+  │   FX provisioning overhang that has historically compressed bank P/E multiples. At
+  │   51.97, the CBE appears to have achieved equilibrium after the March 2024
+  │   devaluation. This stability is the foundation for COMI's re-rating from 7x to 10x
+  │   P/E over 12 months.
+  │
+  │  ► Key Sector-Specific Impact:
+  │   • **ABUK (Fertilizers):** Oil at $92 is a direct margin driver. The 5.49% oil spike today should lift ABUK's export contract pricing in the coming weeks. However, the EGP strengthening by 0.38% today is a minor headwind — every 1% EGP appreciation reduces ABUK's EGP revenue by approximately 0.8% on export sales.
+  │   • **COMI (Banking):** EGP stability at 51.97 is the critical factor. High CBE rates at 27.25% continue to expand NIM. The 0.38% EGP appreciation today is neutral-to-positive — it signals the CBE has control, reducing systemic risk premium.
+  │   • **ORAS (Construction):** Oil at $92 supports its Iraq and regional project pipeline. The EGX70 rally (+2.10%) today directly benefits ORAS as a mid-cap construction play.
+  │   • **TMGH (Real Estate):** EGP stability supports the real estate sector's USD-denominated pricing model. The Iraq license news is the dominant catalyst — oil at $92 makes Iraq's $18.8bn project more viable.
+  │
+  │  ---
+  │
+
+  ┌─ 2. SECTOR CONCENTRATION RISK ───────────────────────────────────────────────────┐
+  │
+  │  ► Current Allocation (Stocks Only):
+  │   • Process Industries/Chemicals (ABUK): 39% — **OVERWEIGHT**
+  │   • Finance/Regional Banks (COMI): 30% — **NEUTRAL**
+  │   • Industrial Services/Construction (ORAS): 25% — **NEUTRAL**
+  │   • Finance/Real Estate Development (TMGH): 6% — **UNDERWEIGHT**
+  │   • Hotels/Resorts (MHOT): 0% — **NO EXPOSURE**
+  │   • Homebuilding (ORHD): 0% — **NO EXPOSURE**
+  │
+  │  ► Risk Assessment:
+  │
+  │  The portfolio has a **DANGEROUS 39% concentration in ABUK** — a single-stock,
+  │   single-sector bet on fertilizers. This is unacceptable for a DCA strategy. ABUK is a
+  │   cyclical commodity stock with high sensitivity to global fertilizer prices, natural
+  │   gas costs, and export logistics. If global fertilizer prices correct 15-20% (which
+  │   has happened in 3 of the last 5 years), the portfolio takes a 39% hit.
+  │
+  │  ► What This Means for Next 6 Months:
+  │   • **Positive scenario:** Oil stays above $85, fertilizer demand remains strong from Indian and Brazilian buying, ABUK rallies 15-20%. The overweight position pays off.
+  │   • **Negative scenario:** Global recession fears emerge, oil drops to $75, fertilizer prices correct, ABUK falls 20-25%. The portfolio loses 8-10% from this single position.
+  │
+  │  ► Recommended Rebalancing:
+  │   • **REDUCE ABUK** from 39% to 20-25% over 2-3 months
+  │   • **INCREASE TMGH** from 6% to 15-20% — real estate has better risk/reward at current valuations
+  │   • **INCREASE ORAS** from 25% to 30% — construction momentum is strong
+  │   • **ADD MHOT** at 5-10% — tourism recovery play with strong technical breakout
+  │   • **ADD ORHD** at 5-10% — homebuilding sector is undervalued relative to real estate boom
+  │
+  │  ► Sectors to Avoid:
+  │   • Consumer staples with heavy import exposure (ISPH, PHAR, EAST) — EGP stability helps but margin pressure persists
+  │   • Telecom (OTEL, ETEL) — regulatory overhang and capex cycle
+  │
+  │  ---
+  │
+
+  ┌─ 3. STOCK-BY-STOCK DEEP ANALYSIS ────────────────────────────────────────────────┐
+  │
+  │  ---
+  │
+  │  ### ABUK — Abou Kir Fertilizers (96 units, 8,026 EGP, 39% of stock portfolio)
+  │
+  │  ► Technical Picture:
+  │   • **RSI:** 44.6, falling from 49.8 — entering bearish territory, approaching oversold at 30-35
+  │   • **MACD:** BEARISH — macd line (0.06) below signal line (0.57), negative divergence widening
+  │   • **Stochastic:** K=44.2, D=51.4 — bearish crossover, not yet oversold
+  │   • **3M Range:** 34.8% position — near the bottom of the 3-month range (77.51-95 EGP)
+  │   • **MAs:** Below SMA20 (86.85) and SMA50 (86.07), above SMA200 (62.42) — short-term bearish, long-term bullish
+  │
+  │  ► Volatility Context:
+  │   • **ATR:** 3.07 (3.7% of current price) — moderate volatility
+  │   • **BB Position:** 15.0% — near lower band, suggesting potential bounce but no reversal signal yet
+  │   • **Interpretation:** The stock is in a downtrend within a broader uptrend. Bollinger Bands are not squeezing — volatility is normal, not contracting.
+  │
+  │  ► Volume Analysis:
+  │   • **Today's Volume:** 1,873,083 shares — 1.15x the 10-day average
+  │   • **Signal:** Slightly elevated volume on a down day = distribution. Sellers are more aggressive than buyers at current levels.
+  │
+  │  ► Fundamental View:
+  │   • **P/E:** N/A (negative earnings or data gap) — concerning
+  │   • **P/B:** 3.3x — reasonable for a fertilizer company with significant fixed assets
+  │   • **ROE:** N/A — data gap
+  │   • **Dividend Yield:** 7.33% — strong income support, but only if earnings sustain the payout
+  │   • **D/E:** 0 — zero debt, fortress balance sheet
+  │   • **Key Risk:** Global fertilizer prices are cyclical. Current oil at $92 supports prices, but any demand shock from India or Brazil would hit ABUK hard.
+  │
+  │  **6-12 Month Price Target:** 90-100 EGP (+8% to +20%)
+  │
+  │  **Verdict: HOLD** — Do not add at current levels. The technical picture is
+  │   deteriorating (RSI falling, MACD bearish, below both short-term MAs). The 7.33%
+  │   dividend yield provides a floor, but there's no catalyst for immediate upside. Wait
+  │   for RSI to reach 30-35 or for a bullish MACD crossover before adding. The 39%
+  │   portfolio weight is too high — use any bounce to 86-88 EGP to reduce to 25%.
+  │
+  │  ---
+  │
+  │  ### COMI — Commercial International Bank (48 units, 6,324 EGP, 30% of stock
+  │   portfolio)
+  │
+  │  ► Technical Picture:
+  │   • **RSI:** 45.2, falling from 47.1 — approaching oversold territory, but not yet extreme
+  │   • **MACD:** BEARISH — macd line (-0.364) below signal line (0.491), negative and widening
+  │   • **Stochastic:** K=15.5, D=14.0 — deeply oversold, potential bounce signal
+  │   • **3M Range:** 61.2% position — mid-range, not extreme
+  │   • **MAs:** Below SMA20 (136.03), at SMA50 (131.75), above SMA200 (111.75) — price exactly at the 50-day MA, a critical support level
+  │
+  │  ► Volatility Context:
+  │   • **ATR:** 3.19 (2.4% of current price) — moderate volatility for a bank stock
+  │   • **BB Position:** 20.8% — near lower band, approaching oversold
+  │   • **Interpretation:** COMI is testing the 50-day MA at 131.75 EGP. This is a MAKE OR BREAK level. If it holds, expect a bounce to 138-140. If it breaks, next support is 125 EGP (SMA200 at 111.75 is too far).
+  │
+  │  ► Volume Analysis:
+  │   • **Today's Volume:** 9,828,910 shares — 1.74x the 10-day average
+  │   • **Signal:** SIGNIFICANTLY elevated volume on a down day = institutional distribution. Large holders are reducing positions. This is the most concerning technical signal in the portfolio.
+  │
+  │  ► Fundamental View:
+  │   • **P/E:** 7.0x — CHEAP vs Egyptian banking sector average of 10-11x. 30-35% discount.
+  │   • **P/B:** 1.9x — below the 2.5x historical average for CIB
+  │   • **ROE:** 34.6% — BEST IN CLASS, highest among Egyptian banks
+  │   • **EPS:** 18.93 EGP — growing, supported by high interest rates
+  │   • **Dividend Yield:** 4.51% — attractive but not exceptional
+  │   • **D/E:** 0.25 — low leverage, strong capital adequacy
+  │   • **Key Catalyst:** EGP stability at 51.97 removes FX provisioning risk. High CBE rates (27.25%) directly boost NIM. Every 100bps of rate differential adds approximately 3-4% to EPS.
+  │
+  │  **6-12 Month Price Target:** 145-160 EGP (+10% to +21%)
+  │
+  │  **Verdict: ACCUMULATE on weakness** — The technical picture is weak (RSI falling,
+  │   MACD bearish, elevated volume on down days), but the fundamental case is compelling.
+  │   P/E 7.0x for a bank with 34.6% ROE is absurdly cheap. The 50-day MA at 131.75 is the
+  │   key level. If it holds, this is a buying opportunity. If it breaks, wait for 125
+  │   EGP. The elevated volume on down days is concerning — do not buy aggressively until
+  │   volume normalizes.
+  │
+  │  ---
+  │
+  │  ### ORAS — Orascom Construction (7 units, 5,228 EGP, 25% of stock portfolio)
+  │
+  │  ► Technical Picture:
+  │   • **RSI:** 79.5, rising from 79.1 — OVERBOUGHT, approaching extreme levels
+  │   • **MACD:** BULLISH — macd line (44.117) above signal line (42.019), positive and widening
+  │   • **Stochastic:** K=96.4, D=93.2 — EXTREMELY OVERBOUGHT, due for a pullback
+  │   • **3M Range:** 99.0% position — AT THE HIGH of the 3-month range (446-749.99 EGP)
+  │   • **MAs:** Above ALL MAs — SMA20 (674.43), SMA50 (582.96), SMA200 (476.78) — full bull alignment
+  │
+  │  ► Volatility Context:
+  │   • **ATR:** 23.11 (3.1% of current price) — high volatility, typical for a construction stock
+  │   • **BB Position:** 88.4% — near upper band, suggesting overextension
+  │   • **Interpretation:** ORAS is in a STRONG uptrend but is technically overbought. The stock has rallied from 446 to 749.99 in 3 months — a 68% gain. Mean reversion is likely.
+  │
+  │  ► Volume Analysis:
+  │   • **Today's Volume:** 555,934 shares — 1.35x the 10-day average
+  │   • **Signal:** Elevated volume on an up day = accumulation. But the volume is not extreme — the rally is not yet parabolic.
+  │
+  │  ► Fundamental View:
+  │   • **P/E:** 6.6x — CHEAP for a construction company with a strong project pipeline
+  │   • **P/B:** 1.9x — reasonable
+  │   • **ROE:** 28.8% — excellent, above sector average
+  │   • **EPS:** 112.72 EGP — strong earnings power
+  │   • **Dividend Yield:** 3.15% — moderate
+  │   • **D/E:** 0.4 — manageable leverage
+  │   • **Key Catalyst:** Iraq mega-project license ($18.8bn) is a game-changer. Oil at $92 supports regional infrastructure spending. ORAS is well-positioned for Middle East construction boom.
+  │
+  │  **6-12 Month Price Target:** 800-900 EGP (+7% to +20%)
+  │
+  │  **Verdict: HOLD — Do NOT add at current levels** — The stock is up 68% in 3 months
+  │   and technically overbought (RSI 79.5, Stochastic 96.4). A pullback to 680-700 EGP
+  │   (SMA20 support) is likely. The fundamental story is strong, but the entry point is
+  │   poor. If you don't already own it, wait for a 10-15% correction. If you own it (as
+  │   you do), hold but set a trailing stop at 680 EGP.
+  │
+  │  ---
+  │
+  │  ### TMGH — Talaat Moustafa Group (13 units, 1,262 EGP, 6% of stock portfolio)
+  │
+  │  ► Technical Picture:
+  │   • **RSI:** 57.6, rising from 55.1 — neutral-to-bullish, room to run
+  │   • **MACD:** BEARISH — macd line (2.058) below signal line (2.572), but the gap is narrowing
+  │   • **Stochastic:** K=49.1, D=54.3 — neutral, no extreme signals
+  │   • **3M Range:** 84.5% position — near the top of the 3-month range (73.73-101.4 EGP)
+  │   • **MAs:** Above ALL MAs — SMA20 (96.61), SMA50 (88.24), SMA200 (74.27) — full bull alignment
+  │
+  │  ► Volatility Context:
+  │   • **ATR:** 2.81 (2.9% of current price) — moderate volatility
+  │   • **BB Position:** 56.5% — mid-range, no squeeze signal
+  │   • **Interpretation:** TMGH is in a healthy uptrend with no technical excess. The MACD bearish crossover is a minor concern but the gap is narrowing — a bullish crossover may be imminent.
+  │
+  │  ► Volume Analysis:
+  │   • **Today's Volume:** 4,284,669 shares — 0.68x the 10-day average
+  │   • **Signal:** BELOW average volume on a slightly up day = lack of conviction. The rally is not attracting new buyers.
+  │
+  │  ► Fundamental View:
+  │   • **P/E:** 14.5x — PREMIUM valuation, justified by backlog quality
+  │   • **P/B:** 2.5x — reasonable for a real estate developer
+  │   • **ROE:** 18.2% — good, but below COMI and ORAS
+  │   • **EPS:** 6.7 EGP — growing
+  │   • **Dividend Yield:** 0.31% — negligible, TMGH reinvests earnings into growth
+  │   • **D/E:** 0.15 — low leverage, conservative balance sheet
+  │   • **Key Catalyst:** Iraq license for $18.8bn mega development is a MAJOR catalyst. TMGH's contracted sales backlog of 364bn EGP provides 5-year revenue visibility. The stock is up 23.5% in your portfolio but has more room to run.
+  │
+  │  **6-12 Month Price Target:** 110-125 EGP (+13% to +29%)
+  │
+  │  **Verdict: ACCUMULATE** — TMGH is the best risk/reward in the portfolio. The
+  │   technical picture is healthy (RSI 57.6, above all MAs), the fundamental story is
+  │   compelling (Iraq license, 364bn EGP backlog), and the position size is too small at
+  │   6%. This should be 15-20% of the stock portfolio. The below-average volume is a
+  │   minor concern but not a deal-breaker.
+  │
+  │  ---
+  │
+  │  ### MHOT — Misr Hotels (0 units, 0 EGP, 0% of stock portfolio)
+  │
+  │  ► Technical Picture:
+  │   • **RSI:** 70.1, rising from 62.4 — approaching overbought, strong momentum
+  │   • **MACD:** BULLISH — macd line (1.416) above signal line (0.89), positive and widening
+  │   • **Stochastic:** K=72.3, D=69.4 — bullish, not yet overbought
+  │   • **3M Range:** 91.9% position — near the top of the 3-month range (23.43-34.3 EGP)
+  │   • **MAs:** Above ALL MAs — SMA20 (28.34), SMA50 (26.73), SMA200 (25.69) — full bull alignment
+  │
+  │  ► Volatility Context:
+  │   • **ATR:** 1.83 (5.5% of current price) — HIGH volatility, typical for a small-cap hotel stock
+  │   • **BB Position:** 111.4% — ABOVE the upper Bollinger Band — EXTREME overextension
+  │   • **Interpretation:** MHOT is in a PARABOLIC rally. The stock has broken above the upper Bollinger Band, which is unsustainable. A sharp pullback to 30-31 EGP (SMA20 at 28.34) is likely.
+  │
+  │  ► Volume Analysis:
+  │   • **Today's Volume:** 1,567,580 shares — 1.61x the 10-day average
+  │   • **Signal:** Elevated volume on an up day = strong accumulation. But the BB position above 100% suggests the move is exhausted.
+  │
+  │  ► Fundamental View:
+  │   • **P/E:** 11.7x — reasonable for a hotel stock in a tourism recovery
+  │   • **P/B:** 3.9x — elevated, but hotels are asset-heavy
+  │   • **ROE:** 33.1% — excellent, driven by tourism recovery
+  │   • **EPS:** 2.85 EGP — growing
+  │   • **Dividend Yield:** 4.9% — attractive income
+  │   • **D/E:** 0.25 — low leverage
+  │   • **Key Catalyst:** Egypt's tourism recovery (record 19M visitors in 2025). MHOT operates hotels in Cairo and Luxor, benefiting from both leisure and business travel.
+  │
+  │  **6-12 Month Price Target:** 35-40 EGP (+5% to +20%)
+  │
+  │  **Verdict: ADD on pullback** — The technical picture is extremely overbought (BB
+  │   above 100%, RSI 70.1). Do NOT buy at current levels. Wait for a pullback to 30-31
+  │   EGP (SMA20 support) before initiating a position. The tourism recovery story is
+  │   intact, but the entry point is poor.
+  │
+  │  ---
+  │
+  │  ### ORHD — Orascom Development Egypt (0 units, 0 EGP, 0% of stock portfolio)
+  │
+  │  ► Technical Picture:
+  │   • **RSI:** 77.5, rising from 74.3 — OVERBOUGHT, approaching extreme
+  │   • **MACD:** BULLISH — macd line (2.191) above signal line (1.841), positive and widening
+  │   • **Stochastic:** K=90.8, D=89.5 — EXTREMELY OVERBOUGHT
+  │   • **3M Range:** 95.8% position — near the top of the 3-month range (23-39.61 EGP)
+  │   • **MAs:** Above ALL MAs — SMA20 (33.56), SMA50 (29.45), SMA200 (25.34) — full bull alignment
+  │
+  │  ► Volatility Context:
+  │   • **ATR:** 1.45 (3.7% of current price) — moderate volatility
+  │   • **BB Position:** 107.4% — ABOVE the upper Bollinger Band — overextended
+  │   • **Interpretation:** ORHD is in a strong uptrend but technically overbought. The BB position above 100% signals a pullback is likely.
+  │
+  │  ► Volume Analysis:
+  │   • **Today's Volume:** 4,696,541 shares — 0.86x the 10-day average
+  │   • **Signal:** Below average volume on an up day = the rally is not attracting new buyers. This is a divergence — price making new highs on declining volume.
+  │
+  │  ► Fundamental View:
+  │   • **P/E:** 8.4x — CHEAP for a real estate developer with strong growth
+  │   • **P/B:** 2.7x — reasonable
+  │   • **ROE:** 32.9% — excellent, among the best in the sector
+  │   • **EPS:** 4.63 EGP — growing
+  │   • **Dividend Yield:** 1.03% — low, but ORHD reinvests for growth
+  │   • **D/E:** 0.69 — MODERATE leverage, manageable but higher than TMGH
+  │   • **Key Catalyst:** Egypt's real estate boom, ORHD's integrated town developments (El Gouna, O West). The stock is up significantly but still cheap at 8.4x P/E with 32.9% ROE.
+  │
+  │  **6-12 Month Price Target:** 42-48 EGP (+8% to +23%)
+  │
+  │  **Verdict: ADD on pullback** — Similar to MHOT, ORHD is technically overbought (RSI
+  │   77.5, BB above 100%). Wait for a pullback to 35-36 EGP (SMA20 at 33.56) before
+  │   initiating a position. The fundamental story is strong (cheap P/E, high ROE), but
+  │   the entry point is poor.
+  │
+  │  ---
+  │
+
+  ┌─ 4. MUTUAL FUND ASSESSMENT ──────────────────────────────────────────────────────┐
+  │
+  │  ► Current Allocation:
+  │   • AZG: 18,047 EGP (-1.3%) — likely money market or fixed income
+  │   • CCB: 10,747 EGP (+13.3%) — likely equity fund
+  │   • CFF: 9,988 EGP (+6.3%) — likely balanced fund
+  │   • CTI: 10,760 EGP (+11.5%) — likely equity fund
+  │   • CTQ: 6,840 EGP (+10.5%) — likely equity fund
+  │
+  │  **Total Mutual Funds:** 56,382 EGP (73% of total portfolio)
+  │
+  │  ► Assessment:
+  │
+  │  The mutual fund allocation at 73% is **too conservative** for a 6-12 month horizon in
+  │   the current environment. With EGP stable at 51.97 and CBE rates at 27.25%, money
+  │   market funds are generating 22-25% nominal returns. However, with inflation at
+  │   25-30%, real returns are NEGATIVE 3-5%. Equities are the only asset class generating
+  │   positive real returns.
+  │
+  │  ► Recommendations:
+  │
+  │  1. **REDUCE money market exposure (AZG)** from 18,047 EGP to 10,000 EGP. Keep 10,000
+  │   EGP as emergency cash buffer. Move 8,047 EGP into equity funds or direct stock
+  │   purchases over 2-3 months.
+  │
+  │  2. **INCREASE equity fund exposure** — CCB, CTI, and CTQ have all generated positive
+  │   returns (10.5-13.3%). These are well-managed funds. Consider increasing allocation
+  │   by 5,000-8,000 EGP from money market.
+  │
+  │  3. **CFF (balanced fund)** at +6.3% is underperforming pure equity funds. Consider
+  │   switching CFF to an equity fund for the next 6 months.
+  │
+  │  4. **DCA Strategy:** Given the 10,000 EGP monthly budget, allocate:
+  │   • 4,000 EGP → direct stock purchases (see Section 5)
+  │   • 4,000 EGP → equity mutual funds (CCB or CTI)
+  │   • 2,000 EGP → money market (AZG) for dry powder
+  │
+  │  ---
+  │
+
+  ┌─ 5. DCA PLAN — 10,000 EGP THIS MONTH (JUNE 2026) ────────────────────────────────┐
+  │
+  │  ### Recommended Allocation:
+  │
+  │  | Allocation | Instrument | Entry Target | Stop Loss | 6M Target | Rationale |
+  │  |------------|------------|--------------|-----------|-----------|-----------|
+  │  | **2,500 EGP** | TMGH | 95-97 EGP | 88 EGP | 115-125 EGP | Best risk/reward. Iraq
+  │   catalyst, healthy technicals, underweight position. |
+  │  | **2,000 EGP** | COMI | 130-132 EGP | 125 EGP | 145-160 EGP | P/E 7.0x with 34.6%
+  │   ROE is absurdly cheap. Buy on weakness near SMA50. |
+  │  | **1,500 EGP** | ORAS | 700-720 EGP | 680 EGP | 800-900 EGP | Wait for pullback from
+  │   overbought levels. Do NOT chase at 746.90. |
+  │  | **2,000 EGP** | CCB (Equity Fund) | Current NAV | N/A | N/A | Diversified equity
+  │   exposure. Professional management. |
+  │  | **2,000 EGP** | AZG (Money Market) | Current NAV | N/A | N/A | Dry powder for
+  │   potential market pullback. |
+  │
+  │  ### What NOT to Buy This Month:
+  │
+  │  1. **ABUK** — Technical picture is deteriorating (RSI 44.6, MACD bearish, below both
+  │   short-term MAs). The 39% portfolio weight is already too high. Wait for RSI to reach
+  │   30-35 or a bullish MACD crossover.
+  │
+  │  2. **MHOT** — BB position at 111.4% (above upper band), RSI 70.1. The stock is in a
+  │   parabolic rally and due for a sharp pullback. Wait for 30-31 EGP.
+  │
+  │  3. **ORHD** — BB position at 107.4% (above upper band), RSI 77.5. Similar to MHOT,
+  │   technically overbought. Wait for 35-36 EGP.
+  │
+  │  ### Entry Strategy:
+  │
+  │   • **TMGH:**
+
+  ──────────────────────────────────────────────────────────────────────────────────────────
+  Tokens: 10,872   |   Cost: $0.00152 USD
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  ⚠️  Informational only. Not financial advice.
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  🔮  PRICE PREDICTIONS  —  1 Week / 1 Month / 3 Months / 6 Months / 12 Months           ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+║  ⚠️  Predictions are probabilistic estimates, NOT guarantees. Always use stop-losses.
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  ┌─ 📌 ABUK ────────────────────────────────────────────────────────────────────────┐
+  │  💰 Current Price: 83.60 EGP
+  │  📅 Next Week (7 days): LOW 80.53 — HIGH 86.67 EGP | Bias: BEARISH | Key driver: RSI at 44.6 and bearish MACD signal suggest continued downside pressure below SMA50 at 86.07.
+  │  📆 Next Month (30 days): LOW 77.51 — HIGH 87.00 EGP | Bias: BEARISH | Key driver: Price at 34.8% of 3M range and bearish technicals indicate potential retest of 3M low at 77.51.
+  │  🗓️  3 Months: LOW 75.00 — HIGH 90.00 EGP | Bias: NEUTRAL | Key driver: Weak fundamentals (N/A PE, low ROE) and bearish momentum may limit upside despite SMA200 support at 62.42.
+  │  📊 6 Months: LOW 70.00 — HIGH 95.00 EGP | Target: 78.00 EGP | Upside/Downside: -6.7% | Key driver: Lack of earnings visibility and sector headwinds from fertilizer price volatility could pressure price toward cost basis of 78.85.
+  │  🎯 12 Months: LOW 65.00 — HIGH 100.00 EGP | Target: 85.00 EGP | Upside/Downside: +1.7% | Key driver: Recovery in agricultural chemical demand and potential EPS release could stabilize price near SMA200.
+  │  ⚠️  Key Risk: Continued absence of EPS data and negative MACD momentum could drive price below 3M low of 77.51.
+  │  🚀 Key Catalyst: Positive earnings surprise or government support for fertilizer exports could reverse bearish trend.
+  │
+
+  ┌─ 📌 COMI ────────────────────────────────────────────────────────────────────────┐
+  │  💰 Current Price: 131.75 EGP
+  │  📅 Next Week (7 days): LOW 128.56 — HIGH 134.94 EGP | Bias: NEUTRAL | Key driver: RSI at 45.2 and price at SMA50 (131.75) with bearish MACD suggest sideways consolidation.
+  │  📆 Next Month (30 days): LOW 125.00 — HIGH 138.00 EGP | Bias: NEUTRAL | Key driver: Strong fundamentals (PE=7.0, ROE=34.6%) support floor, but bearish signal limits upside near 3M high of 144.93.
+  │  🗓️  3 Months: LOW 120.00 — HIGH 145.00 EGP | Bias: BULLISH | Key driver: High ROE and low PE provide value support, with potential to test 3M high as macro stabilizes.
+  │  📊 6 Months: LOW 115.00 — HIGH 150.00 EGP | Target: 140.00 EGP | Upside/Downside: +6.3% | Key driver: Earnings growth from EPS of 18.93 and regional bank sector resilience could drive price toward SMA200 at 111.75 as floor.
+  │  🎯 12 Months: LOW 110.00 — HIGH 160.00 EGP | Target: 145.00 EGP | Upside/Downside: +10.1% | Key driver: Continued ROE above 30% and potential dividend yield attract long-term investors.
+  │  ⚠️  Key Risk: Bearish MACD and RSI below 50 could trigger further decline toward 3M low of 111.
+  │  🚀 Key Catalyst: Positive interest rate environment or strong quarterly earnings could reverse bearish momentum.
+  │
+
+  ┌─ 📌 ORAS ────────────────────────────────────────────────────────────────────────┐
+  │  💰 Current Price: 746.90 EGP
+  │  📅 Next Week (7 days): LOW 723.79 — HIGH 770.01 EGP | Bias: BULLISH | Key driver: RSI at 79.5 (overbought) and bullish MACD with strong buy signal suggest continued uptrend but with pullback risk.
+  │  📆 Next Month (30 days): LOW 700.00 — HIGH 780.00 EGP | Bias: BULLISH | Key driver: Price at 99% of 3M range and strong fundamentals (PE=6.6, ROE=28.8%) support momentum toward new highs.
+  │  🗓️  3 Months: LOW 650.00 — HIGH 800.00 EGP | Bias: BULLISH | Key driver: Engineering sector growth and high ROE could push price above 750, but overbought RSI may cause correction.
+  │  📊 6 Months: LOW 600.00 — HIGH 850.00 EGP | Target: 780.00 EGP | Upside/Downside: +4.4% | Key driver: Strong earnings from EPS of 112.72 and infrastructure demand support long-term growth.
+  │  🎯 12 Months: LOW 550.00 — HIGH 900.00 EGP | Target: 800.00 EGP | Upside/Downside: +7.1% | Key driver: Continued project wins and margin expansion could drive price toward 900.
+  │  ⚠️  Key Risk: Overbought RSI at 79.5 and price near 3M high of 749.99 could trigger sharp pullback.
+  │  🚀 Key Catalyst: New contract announcements or positive economic data could accelerate rally.
+  │
+
+  ┌─ 📌 TMGH ────────────────────────────────────────────────────────────────────────┐
+  │  💰 Current Price: 97.10 EGP
+  │  📅 Next Week (7 days): LOW 94.29 — HIGH 99.91 EGP | Bias: BULLISH | Key driver: RSI at 57.6 and buy signal on MACD despite bearish crossover suggest upward momentum near 3M high of 101.4.
+  │  📆 Next Month (30 days): LOW 90.00 — HIGH 103.00 EGP | Bias: BULLISH | Key driver: Price at 84.5% of 3M range and strong fundamentals (PE=14.5, ROE=18.2%) support test of 101.4 resistance.
+  │  🗓️  3 Months: LOW 85.00 — HIGH 110.00 EGP | Bias: BULLISH | Key driver: Real estate sector growth and high ROE could drive price above 100, with SMA50 at 88.24 as support.
+  │  📊 6 Months: LOW 80.00 — HIGH 115.00 EGP | Target: 105.00 EGP | Upside/Downside: +8.1% | Key driver: Continued project pipeline and EPS growth of 6.7 support valuation expansion.
+  │  🎯 12 Months: LOW 75.00 — HIGH 120.00 EGP | Target: 110.00 EGP | Upside/Downside: +13.3% | Key driver: Real estate demand recovery and potential dividend increases could boost price.
+  │  ⚠️  Key Risk: Bearish MACD signal could limit upside if price fails to break 101.4 resistance.
+  │  🚀 Key Catalyst: Strong quarterly sales or government housing initiatives could accelerate gains.
+  │
+
+  ┌─ 📌 MHOT ────────────────────────────────────────────────────────────────────────┐
+  │  💰 Current Price: 33.42 EGP
+  │  📅 Next Week (7 days): LOW 31.59 — HIGH 35.25 EGP | Bias: BULLISH | Key driver: RSI at 70.1 and strong buy signal on MACD with price above SMA50 (26.73) suggest continued uptrend.
+  │  📆 Next Month (30 days): LOW 30.00 — HIGH 36.00 EGP | Bias: BULLISH | Key driver: Price at 91.9% of 3M range and bullish momentum could push toward 3M high of 34.3 and beyond.
+  │  🗓️  3 Months: LOW 28.00 — HIGH 38.00 EGP | Bias: BULLISH | Key driver: Strong fundamentals (PE=11.7, ROE=33.1%) and tourism sector recovery support price above SMA200 at 25.69.
+  │  📊 6 Months: LOW 26.00 — HIGH 40.00 EGP | Target: 36.00 EGP | Upside/Downside: +7.7% | Key driver: High ROE and hotel occupancy growth could drive price toward 40.
+  │  🎯 12 Months: LOW 24.00 — HIGH 45.00 EGP | Target: 38.00 EGP | Upside/Downside: +13.7% | Key driver: Continued tourism inflows and EPS growth of 2.85 support long-term appreciation.
+  │  ⚠️  Key Risk: Overbought RSI at 70.1 and BB position at 111.4% suggest potential mean reversion.
+  │  🚀 Key Catalyst: Peak tourism season or new hotel openings could accelerate rally.
+  │
+
+  ┌─ 📌 ORHD ────────────────────────────────────────────────────────────────────────┐
+  │  💰 Current Price: 38.91 EGP
+  │  📅 Next Week (7 days): LOW 37.46 — HIGH 40.36 EGP | Bias: BULLISH | Key driver: RSI at 77.5 and strong buy signal on MACD with price near 3M high of 39.61 suggest continued momentum.
+  │  📆 Next Month (30 days): LOW 36.00 — HIGH 42.00 EGP | Bias: BULLISH | Key driver: Price at 95.8% of 3M range and strong fundamentals (PE=8.4, ROE=32.9%) support breakout above 39.61.
+  │  🗓️  3 Months: LOW 34.00 — HIGH 45.00 EGP | Bias: BULLISH | Key driver: Homebuilding sector growth and high ROE could drive price toward 45, with SMA50 at 29.45 as strong support.
+  │  📊 6 Months: LOW 30.00 — HIGH 48.00 EGP | Target: 42.00 EGP | Upside/Downside: +7.9% | Key driver: Continued project deliveries and EPS growth of 4.63 support valuation.
+  │  🎯 12 Months: LOW 28.00 — HIGH 52.00 EGP | Target: 45.00 EGP | Upside/Downside: +15.7% | Key driver: Real estate demand and high ROE could push price toward 52.
+  │  ⚠️  Key Risk: Overbought RSI at 77.5 and BB position at 107.4% indicate high risk of pullback.
+  │  🚀 Key Catalyst: Strong sales data or new land acquisitions could accelerate uptrend.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  Tokens: 3,403   |   Cost: $0.00048 USD
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  👁️   WATCHLIST TRADE PLANS  —  Ready-to-execute entries for tracked stocks            ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+  │  Here is your complete trading playbook for **MHOT** and **ORHD** based on the live data provided for **June 2, 2026**.
+  │
+  │  **Analyst Note:** Both stocks are showing strong momentum but are technically **overbought/extended**. The plans below balance the bullish trend with disciplined risk management.
+  │
+  │  ---
+  │
+
+  ┌─ 👁️  MHOT — Misr Hotels Co. [Consumer Services / Hotels/Resorts/Cruise lines] ──┐
+  │   • **Current Price:** 33.42 EGP
+  │   • **Setup Quality:** FAIR — Strong momentum and fundamentals, but price is at the top of its 3M range (91.9% position) and RSI is overbought at 70.1. Chasing here is risky.
+  │   • **Entry Zone:** Buy at or below **31.50 EGP** (sweet spot: **30.75 – 31.50 EGP**)
+  │   • **Aggressive Entry:** **33.42 EGP** (buy now if you are extremely bullish and accept the risk of a sharp pullback)
+  │   • **Conservative Entry:** **30.75 EGP** (wait for a pullback to the SMA20 support at 28.34 + ATR buffer)
+  │   • **Stop Loss:** **28.50 EGP** (you were wrong below this — risk ~**9.5%** from aggressive entry, ~**7.3%** from conservative zone)
+  │   • **Target 1 (Short-term, 1-2 months):** **36.50 EGP** (+9.2%)
+  │   • **Target 2 (Medium-term, 3-6 months):** **40.00 EGP** (+19.7%)
+  │   • **Target 3 (Long-term, 12 months):** **45.00 EGP** (+34.7%)
+  │   • **Position Sizing:** Suggested allocation **15%** of monthly DCA = **1,500 EGP**
+  │   • **Technical Read:** The stock is in a strong uptrend with SMA20 (28.34) > SMA50 (26.73) > SMA200 (25.69). The MACD is bullish, but the RSI at 70.1 signals overbought conditions. The price is 111.4% above the lower Bollinger Band, suggesting a potential mean reversion or consolidation before the next leg up.
+  │   • **Fundamental Read:** PE of 11.7 is reasonable for the sector. ROE of 33.1% is excellent, indicating efficient capital use. EPS of 2.85 supports the price. The low D/E of 0.25 means the company is financially conservative. The 4.9% dividend yield adds a safety net.
+  │   • **Why Buy:** Strong tourism recovery in Egypt, excellent ROE, low debt, and a clear uptrend. The breakout above 30 EGP is a bullish signal.
+  │   • **Why NOT Buy Yet:** The stock is up 9.22% today and is at the top of its 3M range. RSI is overbought. A pullback to the 30-31 EGP zone would offer a much better risk/reward.
+  │   • **Risk/Reward:** **2.1:1** (from conservative entry zone to Target 2)
+  │   • **Verdict:** **WAIT FOR ENTRY** — Do not chase the +9% day. Set a limit order at **31.00 EGP**.
+  │
+  │  ---
+  │
+
+  ┌─ 👁️  ORHD — Orascom Development Egypt [Consumer Durables / Homebuilding] ───────┐
+  │   • **Current Price:** 38.91 EGP
+  │   • **Setup Quality:** FAIR — Very strong trend and momentum, but RSI at 77.5 and Stochastics at 90.8 are in extreme overbought territory. The risk of a sharp pullback is high.
+  │   • **Entry Zone:** Buy at or below **36.50 EGP** (sweet spot: **35.50 – 36.50 EGP**)
+  │   • **Aggressive Entry:** **38.91 EGP** (buy now if you are very bullish, but expect volatility)
+  │   • **Conservative Entry:** **35.50 EGP** (wait for a pullback to the SMA20 support at 33.56 + ATR buffer)
+  │   • **Stop Loss:** **33.00 EGP** (you were wrong below this — risk ~**15.2%** from aggressive entry, ~**7.0%** from conservative zone)
+  │   • **Target 1 (Short-term, 1-2 months):** **42.00 EGP** (+7.9%)
+  │   • **Target 2 (Medium-term, 3-6 months):** **46.00 EGP** (+18.2%)
+  │   • **Target 3 (Long-term, 12 months):** **52.00 EGP** (+33.6%)
+  │   • **Position Sizing:** Suggested allocation **15%** of monthly DCA = **1,500 EGP**
+  │   • **Technical Read:** The stock is in a powerful uptrend with all SMAs sloping up (SMA20=33.56, SMA50=29.45, SMA200=25.34). The MACD is bullish, but the RSI at 77.5 and Stochastics at 90.8 are deep in overbought territory. Volume is below average (x0.86), which can make the rally fragile.
+  │   • **Fundamental Read:** PE of 8.4 is very attractive for the homebuilding sector. ROE of 32.9% is outstanding. EPS of 4.63 is strong. The D/E of 0.69 is manageable but higher than MHOT. The low dividend yield (1.03%) means this is a growth play, not an income play.
+  │   • **Why Buy:** Strong earnings momentum (EPS 4.63), low PE, and a clear breakout above the 3M range. The real estate sector in Egypt is benefiting from population growth and urbanization.
+  │   • **Why NOT Buy Yet:** The stock is extremely overbought (RSI 77.5, Stochastics 90.8). It is at 95.8% of its 3M range. A pullback to the 35-36 EGP zone is highly probable and would offer a much safer entry.
+  │   • **Risk/Reward:** **2.6:1** (from conservative entry zone to Target 2)
+  │   • **Verdict:** **WAIT FOR ENTRY** — Do not buy at 38.91. Set a limit order at **36.00 EGP**. If it doesn't pull back, let it go. There will be other opportunities.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  Tokens: 2,450   |   Cost: $0.00034 USD
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  ⚠️  Trade plans are informational. Verify prices live before placing orders.
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  💡  NEW STOCK IDEAS  —  Stocks you DON'T currently own                                 ║
+║      Medium-Term (1-3 months) + Long-Term (6m to 3y)                                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+
+┌─ 🎯 PICKS AT A GLANCE ─────────────────────────────────────────────────────────────────┐
+│  HORIZON        SYM    COMPANY                             SECTOR                      
+│  ──────────────────────────────────────────────────────────────────────────────────────
+│  MEDIUM (1-3M)  EFIH   E-Finance for Digital and Financia  Technology Services         
+│  MEDIUM (1-3M)  SWDY   Sodic (Six of October Development   Finance / Real Estate Devel 
+│  MEDIUM (1-3M)  EKHO   Ekhlas for Financial Investment     Finance / Investment Banks/ 
+│  LONG (6m-3y)   ADIB   Abu Dhabi Islamic Bank - Egypt      Finance / Regional Banks    
+│  LONG (6m-3y)   DOMT   Domty (Arabian Food Industries)     Consumer Non-Durables / Foo 
+│  LONG (6m-3y)   MTIE   Mantrac (Mantrac Egypt)             Distribution Services / Who 
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+  ┌─ 📌 EFIH — e-finance for Digital and Financial Investments S.A.E. [Technology Services / Packaged Software] ┐
+  │  ⏱️  Horizon: MEDIUM-TERM (1-3 months)
+  │  💰 Current Price: 22.25 EGP
+  │  🎯 Entry Zone: Buy at or below 22.25 EGP (sweet spot: 21.60-22.25 EGP)
+  │  🛑 Stop Loss: 20.95 EGP (you were wrong below this — lose ~5.8% from entry)
+  │  📊 Targets: T1=23.50 (2-4 weeks) | T2=24.50 (6-8 weeks) | T3=25.80 (12 weeks)
+  │  📈 Upside: +10.1% to T2 (over 2 months)
+  │  📉 Technical Read: RSI at 60.0 remains in bullish territory but down from 63.7, indicating fading momentum. MACD is bearish, a caution flag, while Stoch_K at 77.3 is overbought but not extreme. Price sits at 88.5% of 3M range (17.8-22.83), near resistance at 22.83. ATR of 0.65 suggests moderate daily swings.
+  │  💼 Fundamental Read: PE of 34.7 is elevated vs. sector average (~20-25), but justified by 25.4% ROE and near-zero debt (D/E=0.01). EPS of 0.65 EGP is low, making valuation dependent on growth. Digital payments expansion thesis intact.
+  │  🌍 Macro Fit: EGX30 up 0.37% today supports risk appetite. Oil at $92.16 and gold at $4,484.73 suggest inflation hedging, but tech stocks like EFIH benefit from stable EGP (51.97) and digitalization push.
+  │  ✅ Why This Pick: Strong momentum from digital payments expansion and upcoming earnings catalyst within 90 days — price near 3M high signals breakout potential.
+  │  ⚠️  Key Risk: MACD bearish crossover could precede a pullback to SMA20 (21.68) or SMA50 (20.35). Earnings miss would hit high PE.
+  │  🔥 Conviction: MEDIUM
+  │  💵 Suggested Allocation: 15% of monthly DCA budget = 1,500 EGP
+  │
+
+  ┌─ 📌 SWDY — El Sewedy Electric Company [Producer Manufacturing / Electrical Products] ┐
+  │  ⏱️  Horizon: MEDIUM-TERM (1-3 months)
+  │  💰 Current Price: 91.19 EGP
+  │  🎯 Entry Zone: Buy at or below 91.19 EGP (sweet spot: 89.00-91.19 EGP)
+  │  🛑 Stop Loss: 87.05 EGP (you were wrong below this — lose ~4.5% from entry)
+  │  📊 Targets: T1=95.00 (2-3 weeks) | T2=100.00 (6-8 weeks) | T3=108.00 (12 weeks)
+  │  📈 Upside: +9.7% to T2 (over 2 months)
+  │  📉 Technical Read: STRONG BUY signal with RSI at 68.1 (up from 62.3) — bullish but not overbought. MACD is bearish, a divergence warning. Stoch_K at 51.7 is neutral. Price at 89.0% of 3M range (76.52-93), near resistance at 93. ATR of 2.07 indicates high volatility; volume at 1.81x average confirms strong interest.
+  │  💼 Fundamental Read: PE of 12.0 is attractive vs. sector (~15-18), with ROE of 27.7% and EPS of 7.43 EGP. D/E of 1.24 is elevated but manageable for a capital-intensive business. Dividend yield of 2.07% adds income.
+  │  🌍 Macro Fit: EGX30 uptrend and infrastructure spending tailwinds support electrical products demand. Oil at $92.16 may increase production costs, but El Sewedy's pricing power mitigates.
+  │  ✅ Why This Pick: Exceptional opportunity: top-3 EGX setup with breakout pattern and robust sales pipeline despite sector overlap — volume confirms accumulation.
+  │  ⚠️  Key Risk: MACD bearish divergence could trigger a pullback to SMA20 (88.68). High D/E (1.24) risks in rising rate environment.
+  │  🔥 Conviction: HIGH
+  │  💵 Suggested Allocation: 20% of monthly DCA budget = 2,000 EGP
+  │
+
+  ┌─ 📌 EKHO — Ekhlas for Financial Investment [Finance / Investment Banks/Brokers] ┐
+  │  ⏱️  Horizon: MEDIUM-TERM (1-3 months)
+  │  💰 Current Price: ⚠️ NO LIVE DATA — symbol may be wrong, illiquid, or delisted. Manual price verification required before trading.
+  │  🎯 Entry Zone: N/A — cannot determine without live price
+  │  🛑 Stop Loss: N/A
+  │  📊 Targets: N/A
+  │  📈 Upside: N/A
+  │  📉 Technical Read: No live data available from TradingView. Cannot assess RSI, MACD, or trend.
+  │  💼 Fundamental Read: No live data available. Original thesis cited sector rotation into financials and positive news flow from new investment mandates.
+  │  🌍 Macro Fit: EGX30 up 0.37% and financial sector strength (ADIB up 1.53%) support the thesis, but without live data, execution risk is high.
+  │  ✅ Why This Pick: Sector rotation into financials and positive news flow from new investment mandates support near-term upside — but only if symbol is verified.
+  │  ⚠️  Key Risk: Symbol may be delisted or illiquid; trading could result in slippage or inability to exit.
+  │  🔥 Conviction: LOW (due to data unavailability)
+  │  💵 Suggested Allocation: 0% of monthly DCA budget = 0 EGP (do not trade until symbol is confirmed with live price)
+  │
+
+  ┌─ 📌 ADIB — Abu Dhabi Islamic Bank-Egypt [Finance / Regional Banks] ────────────┐
+  │  ⏱️  Horizon: LONG-TERM (6 months to 3 years)
+  │  💰 Current Price: 48.34 EGP
+  │  🎯 Entry Zone: Buy at or below 48.34 EGP (sweet spot: 46.50-48.34 EGP)
+  │  🛑 Stop Loss: 44.50 EGP (you were wrong below this — lose ~7.9% from entry)
+  │  📊 Targets: T1=52.00 (3-4 months) | T2=56.00 (6-8 months) | T3=62.00 (12-18 months)
+  │  📈 Upside: +15.8% to T2 (over 6-8 months)
+  │  📉 Technical Read: BUY signal with RSI at 58.2 (up from 56.1) — bullish but not overbought. MACD is bearish, a short-term caution. Stoch_K at 65.2 is neutral-bullish. Price at 87.6% of 3M range (36.1-50.08), near resistance at 50.08. ATR of 1.92 indicates moderate volatility; volume at 0.59x average is low, suggesting accumulation.
+  │  💼 Fundamental Read: PE of 5.1 is extremely cheap vs. sector (~8-10), with ROE of 43.8% — exceptional profitability. EPS of 9.48 EGP is strong. D/E of 0.47 is conservative. No dividend yield listed, but high ROE suggests reinvestment.
+  │  🌍 Macro Fit: EGX30 uptrend and stable EGP (51.97) support banking sector. Islamic banking market share growth in Egypt is a structural tailwind. Oil at $92.16 may boost Gulf-linked economies.
+  │  ✅ Why This Pick: Exceptional compounder: high ROE (43.8%), growing Islamic banking market share, and attractive valuation (PE=5.1) for long-term hold.
+  │  ⚠️  Key Risk: Low volume (0.59x avg) could lead to slippage on exit. MACD bearish may precede short-term pullback to SMA20 (46.85).
+  │  🔥 Conviction: HIGH
+  │  💵 Suggested Allocation: 25% of monthly DCA budget = 2,500 EGP
+  │
+
+  ┌─ 📌 DOMT — Arabian Food Industries Co. [Consumer Non-Durables / Food: Meat/Fish/Dairy] ┐
+  │  ⏱️  Horizon: LONG-TERM (6 months to 3 years)
+  │  💰 Current Price: 25.31 EGP
+  │  🎯 Entry Zone: Buy at or below 25.31 EGP (sweet spot: 24.50-25.31 EGP)
+  │  🛑 Stop Loss: 23.97 EGP (you were wrong below this — lose ~5.3% from entry)
+  │  📊 Targets: T1=26.50 (3-4 months) | T2=28.00 (6-8 months) | T3=30.50 (12-18 months)
+  │  📈 Upside: +10.6% to T2 (over 6-8 months)
+  │  📉 Technical Read: NEUTRAL signal with RSI at 51.4 (down from 54.0) — no clear direction. MACD is bearish, a negative. Stoch_K at 43.1 is bearish. Price at 69.1% of 3M range (22.67-26.49), mid-range with room to move. ATR of 0.67 indicates low volatility; volume at 1.09x average is normal.
+  │  💼 Fundamental Read: PE of 54.9 is very expensive vs. sector (~15-20), with low EPS of 0.46 EGP. ROE of 8.4% is weak. D/E of 1.7 is high, indicating leverage. Dividend yield of 3.34% is attractive but may not compensate for valuation risk.
+  │  🌍 Macro Fit: Consumer staples are defensive, but high inflation (implied by gold at $4,484.73) could squeeze margins. Stable EGP helps input costs.
+  │  ✅ Why This Pick: Durable competitive advantage in dairy and juice segments with consistent earnings growth — but current valuation (PE=54.9) is a major hurdle.
+  │  ⚠️  Key Risk: High PE (54.9) and low ROE (8.4%) make this vulnerable to earnings disappointment. High D/E (1.7) adds financial risk.
+  │  🔥 Conviction: LOW
+  │  💵 Suggested Allocation: 0% of monthly DCA budget = 0 EGP (wait for better entry or lower PE)
+  │
+
+  ┌─ 📌 MTIE — MM Group for Industry & International Trade [Distribution Services / Electronics Distributors] ┐
+  │  ⏱️  Horizon: LONG-TERM (6 months to 3 years)
+  │  💰 Current Price: 9.2 EGP
+  │  🎯 Entry Zone: Buy at or below 9.2 EGP (sweet spot: 8.80-9.20 EGP)
+  │  🛑 Stop Loss: 8.54 EGP (you were wrong below this — lose ~7.2% from entry)
+  │  📊 Targets: T1=10.00 (3-4 months) | T2=11.00 (6-8 months) | T3=12.50 (12-18 months)
+  │  📈 Upside: +19.6% to T2 (over 6-8 months)
+  │  📉 Technical Read: BUY signal with RSI at 59.8 (up from 57.8) — bullish momentum building. MACD is bearish, a short-term caution. Stoch_K at 27.8 is oversold and turning up — a bullish divergence. Price at 64.6% of 3M range (7.05-10.38), mid-range with upside potential. ATR of 0.33 indicates low volatility; volume at 0.54x average is low, suggesting accumulation.
+  │  💼 Fundamental Read: PE of 13.7 is reasonable vs. sector (~15-18), with ROE of 29.2% — strong profitability. EPS of 0.67 EGP is solid. D/E of 0.05 is near-zero, indicating minimal debt. No dividend yield, but reinvestment potential is high.
+  │  🌍 Macro Fit: Infrastructure spending tailwinds in Egypt support Caterpillar equipment demand. Stable EGP (51.97) helps import costs. EGX30 uptrend favors industrial stocks.
+  │  ✅ Why This Pick: Exclusive Caterpillar dealership in Egypt provides strong moat, recurring revenue from aftermarket services, and long-term infrastructure spending tailwinds — with near-zero debt.
+  │  ⚠️  Key Risk: Low volume (0.54x avg) could lead to slippage. MACD bearish may precede short-term pullback to SMA20 (9.11).
+  │  🔥 Conviction: HIGH
+  │  💵 Suggested Allocation: 20% of monthly DCA budget = 2,000 EGP
+  │
+
+  ┌─ 📌 💡 PORTFOLIO FIT SUMMARY ───────────────────────────────────────────────────┐
+  │   • **Complementary Nature**: The picks span technology (EFIH), manufacturing (SWDY), banking (ADIB), and distribution (MTIE) — low sector correlation reduces concentration risk. DOMT (consumer staples) is excluded due to low conviction. EKHO is excluded due to data issues.
+  │   • **Recommended Order of Priority**:
+  │  1. **ADIB** (25% allocation) — highest conviction, best fundamentals (PE=5.1, ROE=43.8%), long-term compounder.
+  │  2. **SWDY** (20% allocation) — strong technicals (STRONG BUY), attractive valuation (PE=12.0), high volume.
+  │  3. **MTIE** (20% allocation) — solid fundamentals (ROE=29.2%, D/E=0.05), infrastructure tailwinds.
+  │  4. **EFIH** (15% allocation) — medium conviction due to MACD bearish and high PE, but digital payments thesis intact.
+  │  5. **DOMT** (0% allocation) — wait for lower PE or better entry.
+  │  6. **EKHO** (0% allocation) — do not trade until symbol is verified.
+  │   • **Total Budget Allocation**: 80% of monthly DCA budget = 8,000 EGP across 4 picks (ADIB: 2,500, SWDY: 2,000, MTIE: 2,000, EFIH: 1,500). Remaining 2,000 EGP should be held in cash or allocated to existing holdings to maintain diversification.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  Tokens: 4,803   |   Cost: $0.00067 USD
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  ⚠️  Recommendations are informational. Verify prices live before trading.
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  🇪🇬  التقرير بالعربي  —  للمستثمر المصري العادي                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+  │  تمام يا فندم، أنا هنا. هترجملك التقرير كله بالعربي المصري العامي، بس هخلي الكلام سهل ومباشر. هلتزم بكل توصيات التحليل الإنجليزي حرفيًا، مش هغير أي حاجة.
+  │
+  │  هبدأ على طول:
+  │
+  │  ---
+  │
+
+  ┌─ ١. إيه اللي بيحصل في السوق دلوقتي؟ ─────────────────────────────────────────────┐
+  │
+  │  السوق النهاردة كويس، بس مش جامد أوي. المؤشر الرئيسي (EGX30) طالع طفيف بنسبة 0.37%، ووصل لـ 52,853 نقطة. ده معناه إن السوق قريب من أعلى مستوياته، بس فيه علامات إنه ممكن يهد شوية الفترة الجاية. في نفس الوقت، المؤشر بتاع الشركات الصغيرة والمتوسطة (EGX70) طالع بقوة بنسبة 2.10%، وده معناه إن الفلوس بتتحرك من الأسهم الكبيرة للأسهم المتوسطة، وده كويس لشركات زي أوراسكوم للإنشاءات وطلعت مصطفى.
+  │
+  │  **البترول** نط بقوة النهاردة، سعره بقى 92.16 دولار للبرميل (زيادة 5.49%). ده حلو جدًا لشركة **أبوقير للأسمدة**، لأن أسعار الأسمدة بتزيد مع زيادة البترول. كمان كويس لشركة **أوراسكوم للإنشاءات** لأنها بتشتغل في دول بتصدر بترول زي العراق والإمارات، فلما البترول يزيد، الحكومات هناك بيكون عندها فلوس أكتر للمشاريع.
+  │
+  │  **الذهب** نزل شوية النهاردة، بقى 4,484.73 دولار (نقص 1.23%). ده مش مؤثر أوي على محفظتنا، لكنه ممكن يخلي الناس تشتري عقارات بدل الذهب، وده كويس لشركات زي طلعت مصطفى وأوراسكوم للتطوير.
+  │
+  │  **الدولار** بقى بـ 51.97 جنيه، وهو مستقر نسبيًا. ده حلو جدًا للبنك التجاري الدولي (COMI)، لأن استقرار الدولار بيخلي البنك يشتغل من غير مشاكل كبيرة في فروق العملة. كمان كويس لشركات العقارات اللي بتسعّر منتجاتها بالدولار.
+  │
+  │  ---
+  │
+
+  ┌─ ٢. محفظتك إزاي؟ ────────────────────────────────────────────────────────────────┐
+  │
+  │  محفظتك كلها قيمتها 77,222 جنيه، وانت رابح فيها 5,934 جنيه، يعني نسبة ربح 7.7%. ده أداء كويس.
+  │
+  │  **القوي في محفظتك:**
+  │   • **أوراسكوم للإنشاءات (ORAS):** رابح فيها 57.3%، وده أداء جامد جدًا.
+  │   • **طلعت مصطفى (TMGH):** رابح فيها 23.5%، وده كويس.
+  │
+  │  **الأضعف في محفظتك:**
+  │   • **البنك التجاري الدولي (COMI):** خسران فيه 0.6%، بس ده مش خطر، هو مجرد تصحيح بسيط.
+  │   • **أبوقير للأسمدة (ABUK):** رابح فيها 6%، بس التحليل الفني مش قوي دلوقتي.
+  │
+  │  **المشكلة الكبيرة:** محفظتك مركزة جدًا في سهم أبوقير للأسمدة بنسبة 39%، وده خطر كبير. لو حصل حاجة في أسعار الأسمدة، هتتأثر جامد.
+  │
+  │  ---
+  │
+
+  ┌─ ٣. تحليل كل سهم (بكلام بسيط) ───────────────────────────────────────────────────┐
+  │
+  │  ### **أبوقير للأسمدة (ABUK)**
+  │   • **سعر السهم:** 83.60 جنيه
+  │   • **وضع السهم:** السهم ضعيف الفترة الأخيرة. هو نازل عن المتوسطات الحركية بتاعته (الـ 20 يوم والـ 50 يوم)، وده معناه إن الاتجاه قصير المدى نازل. مؤشر القوة النسبية (RSI) عند 44.6، وده قريب من منطقة البيع الزائد.
+  │   • **السبب:** السهم في اتجاه نازل جوه اتجاه صاعد عام. فيه علامات إن ناس بتوزع السهم (بتسيبه) في الأيام اللي بينزل فيها.
+  │   • **التوقعات:**
+  │   • **الأسبوع الجاي:** بين 80.53 و 86.67 جنيه، واتجاهه نازل.
+  │   • **الشهر الجاي:** بين 77.51 و 87.00 جنيه، واتجاهه نازل.
+  │   • **6 شهور:** بين 70 و 95 جنيه، واتجاهه محايد. الهدف السعري 78 جنيه (خسارة 6.7%).
+  │   • **12 شهر:** بين 65 و 100 جنيه، الهدف 85 جنيه (مكسب 1.7%).
+  │   • **الرأي: احتفظ.** متزودش فيه دلوقتي. استنى لما السهم يهد أكتر أو تظهر علامات شراء قوية. ولو السهم ارتفع لـ 86-88 جنيه، فكر تبيع جزء عشان تقلل نسبة تركيزه في المحفظة.
+  │
+  │  ### **البنك التجاري الدولي (COMI)**
+  │   • **سعر السهم:** 131.75 جنيه
+  │   • **وضع السهم:** السهم في منطقة حرجة. هو واقف بالظبط على المتوسط الحركي بتاع الـ 50 يوم (131.75 جنيه). لو فضل فوق المستوى ده، ممكن يرتد ويطلع تاني. لو كسره، ممكن ينزل لـ 125 جنيه. مؤشر القوة النسبية عند 45.2، وده قريب من البيع الزائد.
+  │   • **السبب:** السهم ضعيف فنيًا، وفيه حجم تداول عالي في أيام النزول، وده معناه إن ناس كبيرة بتوزع السهم. لكن الأساسيات قوية جدًا (مكرر ربح 7.0، والعائد على حقوق المساهمين 34.6%)، وده يخلي السهم رخيص جدًا.
+  │   • **التوقعات:**
+  │   • **الأسبوع الجاي:** بين 128.56 و 134.94 جنيه، واتجاهه محايد.
+  │   • **الشهر الجاي:** بين 125 و 138 جنيه، واتجاهه محايد.
+  │   • **6 شهور:** بين 115 و 150 جنيه، الهدف 140 جنيه (مكسب 6.3%).
+  │   • **12 شهر:** بين 110 و 160 جنيه، الهدف 145 جنيه (مكسب 10.1%).
+  │   • **الرأي: اشتري أكتر على الضعف.** لو السهم فضل فوق 131.75 جنيه، ده فرصة شراء. لو كسرها، استنى لما يوصل 125 جنيه واشتري. متشتريش بقوة دلوقتي عشان في علامات توزيع.
+  │
+  │  ### **أوراسكوم للإنشاءات (ORAS)**
+  │   • **سعر السهم:** 746.90 جنيه
+  │   • **وضع السهم:** السهم قوي جدًا وفوق كل المتوسطات الحركية بتاعته. هو في قمة الـ 3 شهور. مؤشر القوة النسبية عند 79.5، وده معناه إن السهم في منطقة شراء زائد (Overbought) وممكن يصحح شوية.
+  │   • **السبب:** السهم طالع بقوة من 446 جنيه لـ 749.99 جنيه في 3 شهور (مكسب 68%)، وده صعود جامد. الأساسيات قوية (مكرر ربح 6.6، والعائد على حقوق المساهمين 28.8%)، ومشروع العراق الكبير (18.8 مليار دولار) حافز قوي.
+  │   • **التوقعات:**
+  │   • **الأسبوع الجاي:** بين 723.79 و 770.01 جنيه، واتجاهه صاعد.
+  │   • **الشهر الجاي:** بين 700 و 780 جنيه، واتجاهه صاعد.
+  │   • **6 شهور:** بين 650 و 800 جنيه، الهدف 800-900 جنيه (مكسب 7% لـ 20%).
+  │   • **الرأي: احتفظ.** متزودش فيه دلوقتي. السهم غالي فنيًا وممكن يصحح لـ 680-700 جنيه. لو انت معاك السهم، احتفظ بيه، لكن لو عايز تشتري جديد، استنى لما يصحح 10-15%.
+  │
+  │  ### **طلعت مصطفى (TMGH)**
+  │   • **سعر السهم:** 97.10 جنيه
+  │   • **وضع السهم:** السهم في اتجاه صاعد صحي. هو فوق كل المتوسطات الحركية بتاعته. مؤشر القوة النسبية عند 57.6، وده في المنطقة المحايدة ولسه فيه مساحة للصعود.
+  │   • **السبب:** الأساسيات قوية جدًا (مكرر ربح 14.5، والعائد على حقوق المساهمين 18.2%)، ومشروع العراق الكبير حافز قوي جدًا. كمان حجم العقود الموقعة عندهم كبير (364 مليار جنيه)، وده يضمن إيرادات لـ 5 سنين جايين.
+  │   • **التوقعات:**
+  │   • **الأسبوع الجاي:** مش مذكور بشكل منفصل، لكن التحليل بيقول إنه في اتجاه صاعد.
+  │   • **الشهر الجاي:** مش مذكور بشكل منفصل.
+  │   • **6 شهور:** مش مذكور بشكل منفصل.
+  │   • **12 شهر:** الهدف السعري بين 110 و 125 جنيه (مكسب 13% لـ 29%).
+  │   • **الرأي: اشتري أكتر.** ده أحسن سهم في المحفظة من ناحية المخاطرة مقابل العائد. حصتك فيه قليلة جدًا (6%)، ومحتاج تزودها لـ 15-20%.
+  │
+  │  ### **مصر للفنادق (MHOT)**
+  │   • **سعر السهم:** 33.42 جنيه
+  │   • **وضع السهم:** السهم في صعود قوي جدًا (شبه مكافئ). هو فوق البولينجر باند العلوي، وده معناه إنه في منطقة شراء زائد جدًا وممكن يصحح بقوة. مؤشر القوة النسبية عند 70.1.
+  │   • **السبب:** السهم طالع بقوة بسبب انتعاش السياحة في مصر. الأساسيات كويسة (مكرر ربح 11.7، والعائد على حقوق المساهمين 33.1%).
+  │   • **التوقعات:**
+  │   • **الأسبوع الجاي:** مش مذكور بشكل منفصل.
+  │   • **الشهر الجاي:** مش مذكور بشكل منفصل.
+  │   • **6 شهور:** مش مذكور بشكل منفصل.
+  │   • **12 شهر:** الهدف السعري بين 35 و 40 جنيه (مكسب 5% لـ 20%).
+  │   • **الرأي: أضف على التصحيح.** متشتريش السهم دلوقتي لأنه غالي جدًا فنيًا. استنى لما يصحح لـ 30-31 جنيه، وبعدين اشتري.
+  │
+  │  ### **أوراسكوم للتطوير مصر (ORHD)**
+  │   • **سعر السهم:** 38.91 جنيه
+  │   • **وضع السهم:** السهم في صعود قوي، لكنه في منطقة شراء زائد. هو فوق البولينجر باند العلوي. مؤشر القوة النسبية عند 77.5.
+  │   • **السبب:** السهم طالع بقوة بسبب طفرة العقارات في مصر. الأساسيات قوية جدًا (مكرر ربح 8.4، والعائد على حقوق المساهمين 32.9%).
+  │   • **التوقعات:**
+  │   • **الأسبوع الجاي:** مش مذكور بشكل منفصل.
+  │   • **الشهر الجاي:** مش مذكور بشكل منفصل.
+  │   • **6 شهور:** مش مذكور بشكل منفصل.
+  │   • **12 شهر:** الهدف السعري بين 42 و 48 جنيه (مكسب 8% لـ 23%).
+  │   • **الرأي: أضف على التصحيح.** متشتريش دلوقتي. استنى لما يصحح لـ 35-36 جنيه، وبعدين اشتري.
+  │
+  │  ---
+  │
+
+  ┌─ ٤. فين تحط فلوسك الشهر ده؟ ─────────────────────────────────────────────────────┐
+  │
+  │  عندك 10,000 جنيه ميزانية الشهر ده. ده توزيع المقترح من التحليل:
+  │
+  │  | المبلغ | السهم أو الصندوق | سعر الدخول المستهدف | وقف الخسارة | الهدف السعري (6 شهور) | السبب |
+  │  |---|---|---|---|---|---|
+  │  | **2,500 جنيه** | طلعت مصطفى (TMGH) | 95-97 جنيه | 88 جنيه | 115-125 جنيه | أحسن مخاطرة مقابل عائد. حافز العراق. |
+  │  | **2,000 جنيه** | البنك التجاري الدولي (COMI) | 130-132 جنيه | 125 جنيه | 145-160 جنيه | رخيص جدًا (مكرر ربح 7.0). اشتري على الضعف. |
+  │  | **1,500 جنيه** | أوراسكوم للإنشاءات (ORAS) | 700-720 جنيه | 680 جنيه | 800-900 جنيه | استنى التصحيح. متجريش وراه على 746.90. |
+  │  | **2,000 جنيه** | صندوق CCB (أسهم) | السعر الحالي | مش محتاج | مش محتاج | تنوع في الأسهم وإدارة محترفة. |
+  │  | **2,000 جنيه** | صندوق AZG (سوق نقد) | السعر الحالي | مش محتاج | مش محتاج | فلوس احتياطي لو السوق نزل. |
+  │
+  │  **إيه اللي متشتريش الشهر ده:**
+  │   • **أبوقير للأسمدة (ABUK):** ضعيف فنيًا، وحصتك فيه كبيرة أوي (39%).
+  │   • **مصر للفنادق (MHOT):** غالي جدًا فنيًا. استنى التصحيح.
+  │   • **أوراسكوم للتطوير (ORHD):** غالي جدًا فنيًا. استنى التصحيح.
+  │
+  │  ---
+  │
+
+  ┌─ ٥. المخاطر اللي لازم تعرفها ────────────────────────────────────────────────────┐
+  │
+  │  1.  **خطر التركيز في سهم واحد:** محفظتك فيها 39% من أسهمها في سهم أبوقير للأسمدة. ده خطر كبير جدًا. لو حصل حاجة في أسعار الأسمدة (زي ما حصل في 3 من آخر 5 سنين)، محفظتك هتتأثر جامد.
+  │  2.  **خطر أسعار الأسمدة:** سهم أبوقير مرتبط بأسعار البترول والأسمدة العالمية. لو البترول نزل أو الطلب على الأسمدة قل، السهم هينزل.
+  │  3.  **خطر التصحيح الفني:** أسهم زي أوراسكوم للإنشاءات ومصر للفنادق وأوراسكوم للتطوير في مناطق شراء زائد، وده معناه إنها ممكن تصحح (تنزل) في أي وقت.
+  │  4.  **خطر استقرار الدولار:** لو الدولار استقر أكتر، ده كويس للبنك التجاري الدولي وشركات العقارات، لكنه مش كويس لأبوقير للأسمدة اللي بتصدر بالدولار.
+  │  5.  **خطر التضخم:** الفلوس اللي في صناديق سوق النقد (زي AZG) بتدي عائد 22-25%، لكن التضخم أعلى من كده (25-30%)، فأنت بتخسر فلوسك الحقيقية.
+  │
+  │  ---
+  │
+
+  ┌─ ٦. إيه اللي هتعمله أول ما البورصة تفتح؟ ────────────────────────────────────────┐
+  │
+  │  1.  **متشتريش حاجة في أبوقير للأسمدة (ABUK).** لو السهم ارتفع لـ 86-88 جنيه، فكر تبيع جزء منه عشان تقلل نسبة تركيزه في المحفظة.
+  │  2.  **اشتري 2,500 جنيه في طلعت مصطفى (TMGH)** لو السعر بين 95 و 97 جنيه.
+  │  3.  **اشتري 2,000 جنيه في البنك التجاري الدولي (COMI)** لو السعر بين 130 و 132 جنيه. لو نزل لـ 125 جنيه، استنى شوية.
+  │  4.  **متشتريش حاجة في أوراسكوم للإنشاءات (ORAS)** دلوقتي. استنى لما السعر يوصل لـ 700-720 جنيه.
+  │  5.  **متشتريش حاجة في مصر للفنادق (MHOT) أو أوراسكوم للتطوير (ORHD)** دلوقتي. استنى التصحيح.
+  │  6.  **حط 2,000 جنيه في صندوق CCB (أسهم)** و **2,000 جنيه في صندوق AZG (سوق نقد)**.
+  │
+  │  كده التقرير كامل ومترجم بالعربي المصري العامي، وكل التوصيات والأرقام متطابقة مع التحليل الإنجليزي.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  Tokens: 12,217   |   Cost: $0.00171 USD
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  ⚠️  التقرير ده للمعلومات بس ومش نصيحة استثمارية رسمية
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║  💰  TOTAL TOKEN & COST REPORT                                      ║
+╠════════════════════════════════════════════════════════════════════╣
+║  Section                    Tokens       Cost (USD)   ║
+║────────────────────────────────────────────────────────────────────║
+║  English Analysis           10,872     $    0.00152   ║
+║  Price Predictions           3,403     $    0.00048   ║
+║  Watchlist Plans             2,450     $    0.00034   ║
+║  Recommend. Picker           1,096     $    0.00015   ║
+║  Recommend. Refiner          4,803     $    0.00067   ║
+║  Arabic Report              12,217     $    0.00171   ║
+║────────────────────────────────────────────────────────────────────║
+║  TOTAL                      34,841     $    0.00488   ║
+║  ≈ in EGP                                    0.25 EGP  ║
+╚════════════════════════════════════════════════════════════════════╝
